@@ -1,7 +1,5 @@
-# Opportunity-Oracle
+# .github
 
-## Goals
+This is the .github readme. This is not shown on the organization profile.
 
-[Client goals](https://docs.google.com/document/d/1bmSK0SVZxxY-gK1xDjAYGZty2yt6NkHAZxz6E6csPHw/edit?usp=sharing)
-
-## Documentations
+The profile readme is in profile/readme.md
