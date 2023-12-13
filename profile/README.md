@@ -1,7 +1,4 @@
 # Opportunity-Oracle
 
-## Goals
-
-[Client goals](https://docs.google.com/document/d/1bmSK0SVZxxY-gK1xDjAYGZty2yt6NkHAZxz6E6csPHw/edit?usp=sharing)
-
 ## Documentations
+[Practicum Documentation Google Drive](https://drive.google.com/drive/folders/16OSreIMe_Nbz4wowlEe-7FCioZK1Hiug?usp=sharing)
